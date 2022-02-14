@@ -37,3 +37,14 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user
+
+
+# images
+*.pdf
+*.jpg
+*.jpeg
+
+# data
+*.fasta
+*.fastq
